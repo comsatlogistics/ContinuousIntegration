@@ -14,7 +14,7 @@ class Converter {
         var result = ""
         
         let numberSymbols: [(number: Int, symbol: String)] =
-        [(1000, "S"),
+        [(1000, "M"),
          (900, "CM"),
          (500, "D"),
          (400, "CD"),
