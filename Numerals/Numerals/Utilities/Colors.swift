@@ -5,13 +5,6 @@
 //  Created by Small Factory Studios on 11/30/19.
 //  Copyright © 2019 Ray Dolber. All rights reserved.
 //
-//
-//  Colors.swift
-//  RomanNumeral
-//
-//  Created by Small Factory Studios on 11/30/19.
-//  Copyright © 2019 Ray Dolber. All rights reserved.
-//
 
 import UIKit
 
